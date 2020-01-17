@@ -1,15 +1,15 @@
 # Site settings
-title: "montqrewa.xyz"
+title: "Montqrewa Marketing Türkiye - tr.montqrewa.xyz"
 description: > 
-  Perfection of future, technology and art.
+  Geleceğin, teknolojinin ve sanatın mükemmelliği.
 
-author: montqrewa.xyz
-email: ferhat@ekofi.science
+author: tr.montqrewa.xyz
+email: contact@montqrewa.xyz
 twitter_username: 
 github_username: 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://montqrewa.xyz" # the base hostname & protocol for your site
+url: "https://tr.montqrewa.xyz" # the base hostname & protocol for your site
 
 google_analytics_id: UA-112209397-5
 disqus_id:
