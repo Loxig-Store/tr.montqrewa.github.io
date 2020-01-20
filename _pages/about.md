@@ -7,7 +7,7 @@ Dijital pazarlama, satış ortaklığı gibi projeler üzerinde çalışıyoruz.
 
 ----
 
-## The Website
+## İnternet sitesi
 Bizi tercih eden firmalara çok fazla avantaj sağlıyoruz. Bunlardan ilki, hosting'i tamamen ücretsiz internet sitesi kuruyoruz.
 Aynı zamanda, ortaklarımız sayesinde bilişim alanında oldukça işinize yarayacak indirim kodları sağlıyoruz.
 Bu site ve işimiz hakkındaki görüşlerinizi duymak isteriz.
