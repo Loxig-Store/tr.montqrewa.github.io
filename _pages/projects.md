@@ -1,15 +1,14 @@
 ---
 layout: content
-title: Projects
+title: Projeler
 permalink: /projects/
 ---
 
-Show off your projects here!
-- [7/24 Live Music Stream - SOON]()
-- [Live Earthquake Prediction - SOON]()
+- [7/24 Canlı Müzik Yayını - YAKINDA]()
+- [Canlı Deprem Tahmini - YAKINDA]()
 
-# Podcasts
-- :) contact me: ferhat@ekofi.science
+# Ortağımız olun
+- İletişime geçin: contact@montqrewa.xyz
 
-# Also thanks to
-[Mithat Erdoğan - Civil Engineer](https://www.erdoganmithat.com)
+# Ayrıca teşekkürler
+[Mithat Erdoğan - Yüksek İnşaat Mühendisi](https://www.erdoganmithat.com)
