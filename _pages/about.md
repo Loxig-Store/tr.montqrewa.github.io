@@ -1,21 +1,21 @@
 ---
 layout: content
-title: About
+title: Hakkımızda
 permalink: /about/
 ---
-Hi, I'm Ferhat and I'm talking & writing about future. Thanks for visiting my site.
-
-I'm a high school student. I love coding, digital arts and chess!
+Dijital pazarlama, satış ortaklığı gibi projeler üzerinde çalışıyoruz. Aynı zamanda growth hacking ve SEO bizim işimiz.
 
 ----
 
 ## The Website
-Powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
-I'd love to hear your feedback on this site and my work.
+Bizi tercih eden firmalara çok fazla avantaj sağlıyoruz. Bunlardan ilki, hosting'i tamamen ücretsiz internet sitesi kuruyoruz.
+Aynı zamanda, ortaklarımız sayesinde bilişim alanında oldukça işinize yarayacak indirim kodları sağlıyoruz.
+Bu site ve işimiz hakkındaki görüşlerinizi duymak isteriz.
+Bize contact@montqrewa.xyz üzerinden veya Twitter'dan ulaşabilirsiniz.
 
 ----
 
-## Etcetera
+## Sosyal
 
-- [Twitter](https://www.twitter.com/) soon :)
+- [Twitter](https://twitter.com/montqrewa)
 
