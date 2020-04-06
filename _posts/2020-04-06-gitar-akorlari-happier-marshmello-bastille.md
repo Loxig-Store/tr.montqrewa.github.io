@@ -23,24 +23,24 @@ When we see what **we've** **b**ecome<br/>
 In the cold light of day we're a **f**lame in the wind<br/>
 .................................................**F**<br/>
 Not the fire that we've be**g**un<br/>
-............**G**.....**Am**..............................**C/B***...**C**<br/>
+............**G**.....**Am**..................................**C/B***...**C**<br/>
 Every **a**rgu**m**ent, every word we **can't** **t**ake back<br/>
 
 'Cause with the all that has happened<br/>
-**F**......................................................................................**F**<br/>
+**F**............................................................................................**F**<br/>
 I **t**hink that we both know the way that this story **e**nds<br/>
 
 <u>[Chorus]</u><br/>
-**G**.........**Am**................**C/B*** **C**<br/>
+**G**.........**Am**...................**C/B*** **C**<br/>
 **T**hen **o**nly for a min**ute**<br/>
-.....................................**F**<br/>
+.........................................**F**<br/>
 I want to change my **m**ind<br/>
-...............................................**F**<br/>
+..................................................**F**<br/>
 'Cause this just don't feel **r**ight to me<br/>
-
-I wanna raise your spirits<br/>
-
-I want to see you smile but<br/>
+**G Am**..............................................**C/B*** **C**<br/>
+**I w**anna raise your spir**its**<br/>
+....................................**F**<br/>
+I want to see you **s**mile but<br/>
 
 Know that means I'll have to leave<br/>
 
