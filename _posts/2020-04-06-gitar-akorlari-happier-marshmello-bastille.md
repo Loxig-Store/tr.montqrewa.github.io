@@ -56,14 +56,14 @@ Know that means I'll **h**ave to leave<br/>
 I want you to be **h**appier, I want you to be **h**appier<br/>
 
 <u>[Verse 2]</u><br/>
-.........................................**Am**<br/>
+.....................................**Am**<br/>
 When the evening **f**alls<br/>
-...................................**C/B***........**C**
+...................................**C/B***........**C**<br/>
 And I'm left there **w**ith my **t**houghts<br/>
-
-And the image of you being with someone else<br/>
-
-Well, that's eating me up inside<br/>
+..............................................................**F**<br/>
+And the image of you being **w**ith someone else<br/>
+...........................................................**F**<br/>
+Well, that's eating me up **i**nside<br/>
 
 But we run our course, we pretend that we're okay<br/>
 
