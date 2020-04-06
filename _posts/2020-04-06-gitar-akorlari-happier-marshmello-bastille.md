@@ -15,9 +15,9 @@ Lately, I've been, I've been thinking<br/>
 I want you to be happier, I want you to be happier<br/>
 
 <u>[Verse 1]</u><br/>
-**G**....................................**Am**<br/>
+.....................**G**...................**Am**<br/>
 When the morning comes<br/>
-.................................................**C/B*** **C**<br/>
+......................................**C/B*** **C**<br/>
 When we see what we've become<br/>
 
 In the cold light of day we're a flame in the wind<br/>
