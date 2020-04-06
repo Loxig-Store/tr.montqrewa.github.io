@@ -105,10 +105,10 @@ I want you to be **h**appier, I want you to be **h**appier<br/>
 So I'll **go**, I'll **go**<br/>
 ............**G**..........**Am**<br/>
 I will **go**, go, **go**<br/>
-
-So I'll go, I'll go<br/>
-
-I will go, go, go<br/>
+.............**F**..........**C**<br/>
+So I'll **go**, I'll **go**<br/>
+............**G**..........**Am**<br/>
+I will **go**, go, **go**<br/>
 
 <u>[Pre-Chorus]</u><br/>
 **Am**     ...........       Geçiş **C/B*** sonra **C**<br/>
@@ -116,10 +116,10 @@ I will go, go, go<br/>
 
 .................................**F**.............................................**F**<br/>
 I want you to be **h**appier, I want you to be **h**appier<br/>
-
-Even though I might not like this<br/>
-
-I think that you'll be happier, I want you to be happier<br/>
+**Am**...............**C/B***........ **C**<br/>
+Even though I **m**ight not **l**ike this<br/>
+.................................**F**..........................................**F**<br/>
+I think that you'll be **h**appier, I want you to be **h**appier<br/>
 
 <u>[Chorus]</u><br/>
 **G**.........**Am**...................**C/B*** **C**<br/>
