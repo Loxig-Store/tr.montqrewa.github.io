@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Hello, World!"
-description: "Say hello to us, we were born"
+title: "Merhaba, Dünya!"
+description: "Bize merhaba diyin, biz geldik"
 date: 2019-08-30
 tags: hello world
 comments: true
 ---
-Hello, World!
+Merhaba, Dünya!
