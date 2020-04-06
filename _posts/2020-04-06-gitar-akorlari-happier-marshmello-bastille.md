@@ -10,19 +10,19 @@ comments: true
 
 <u>[Intro]</u><br/>
 **Am**     .......       Geçiş **C/B*** sonra **C**<br/>
-Lately, I've been, I've been thinking<br/>
-**F**...............................................**F**<br/>
-I want you to be happier, I want you to be happier<br/>
+**L**ately, I've been, **I've** been **t**hinking<br/>
+...............................................**F**...............................................**F**<br/>
+I want you to be **h**appier, I want you to be **h**appier<br/>
 
 <u>[Verse 1]</u><br/>
 .....................**G**...................**Am**<br/>
 When the morning comes<br/>
 ......................................**C/B*** **C**<br/>
 When we see what we've become<br/>
-
+...............................................**F**...............................................<br/>
 In the cold light of day we're a flame in the wind<br/>
-
-Not the fire that we've begun<br/>
+...............................................**F**<br/>
+Not the fire that we've be**g**un<br/>
 
 Every argument, every word we can't take back<br/>
 
