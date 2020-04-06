@@ -11,12 +11,13 @@ comments: true
 <u>[Intro]</u><br/>
 **Am**     .......       Geçiş **C/B*** sonra **C**<br/>
 Lately, I've been, I've been thinking<br/>
-**F**............................................**F**.......&nbsp;........................................<p>&nbsp;</p>....**G**<br/>
+**F**............................................**F**....................................................<br/>
 I want you to be happier, I want you to be happier<br/>
 
 <u>[Verse 1]</u><br/>
+**G**.............**Am**<br/>
 When the morning comes<br/>
-
+....................Geçiş **C/B*** sonra **C**<br/>
 When we see what we've become<br/>
 
 In the cold light of day we're a flame in the wind<br/>
