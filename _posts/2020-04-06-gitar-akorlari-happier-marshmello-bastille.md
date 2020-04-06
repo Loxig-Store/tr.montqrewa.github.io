@@ -8,13 +8,13 @@ comments: true
 ---
 **5. Perdeye Kapo (Kelepçe)**
 
-<u>[Intro]</u>
+<u>[Intro]</u><br/>
 **Am** **Geçiş C/B*** **C**<br/>
 Lately, I've been, I've been thinking<br/>
 **F**                   **F**          **G**<br/>
 I want you to be happier, I want you to be happier<br/>
 
-<u>[Verse 1]</u>
+<u>[Verse 1]</u><br/>
 When the morning comes<br/>
 
 When we see what we've become<br/>
@@ -29,7 +29,7 @@ Every argument, every word we can't take back<br/>
 
 I think that we both know the way that this story ends<br/>
 
-<u>[Chorus]</u>
+<u>[Chorus]</u><br/>
 Then only for a minute<br/>
 
 I want to change my mind<br/>
@@ -42,13 +42,15 @@ I want to see you smile but<br/>
 
 Know that means I'll have to leave<br/>
 
+
+
 Know that means I'll have to leave<br/>
 
 Lately, I've been, I've been thinking<br/>
 
 I want you to be happier, I want you to be happier<br/>
 
-<u>[Verse 2]</u>
+<u>[Verse 2]</u><br/>
 When the evening falls<br/>
 
 And I'm left there with my thoughts<br/>
@@ -63,7 +65,7 @@ Now if we jump together at least we can swim<br/>
 
 Far away from the wreck we made<br/>
 
-<u>[Chorus]</u>
+<u>[Chorus]</u><br/>
 Then only for a minute<br/>
 
 I want to change my mind<br/>
@@ -76,13 +78,15 @@ I want to see you smile but<br/>
 
 Know that means I'll have to leave<br/>
 
+
+
 Know that means I'll have to leave<br/>
 
 Lately, I've been, I've been thinking<br/>
 
 I want you to be happier, I want you to be happier<br/>
 
-<u>[Bridge]</u>
+<u>[Bridge]</u><br/>
 So I'll go, I'll go<br/>
 
 I will go, go, go<br/>
@@ -91,7 +95,7 @@ So I'll go, I'll go<br/>
 
 I will go, go, go<br/>
 
-<u>[Pre-Chorus]</u>
+<u>[Pre-Chorus]</u><br/>
 Lately, I've been, I've been thinking<br/>
 
 I want you to be happier, I want you to be happier<br/>
@@ -100,7 +104,7 @@ Even though I might not like this<br/>
 
 I think that you'll be happier, I want you to be happier<br/>
 
-<u>[Chorus]</u>
+<u>[Chorus]</u><br/>
 Then only for a minute (only for a minute)<br/>
 
 I want to change my mind<br/>
@@ -113,13 +117,15 @@ I want to see you smile but<br/>
 
 Know that means I'll have to leave<br/>
 
+
+
 Know that means I'll have to leave<br/>
 
 Lately, I've been, I've been thinking<br/>
 
 I want you to be happier, I want you to be happier<br/>
 
-<u>[Outro]</u>
+<u>[Outro]</u><br/>
 So I'll go, I'll go<br/>
 
 I will go, go, go<br/>
