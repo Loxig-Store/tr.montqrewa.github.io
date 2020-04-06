@@ -101,9 +101,9 @@ Know that means I'll **h**ave to leave<br/>
 I want you to be **h**appier, I want you to be **h**appier<br/>
 
 <u>[Bridge]</u><br/>
-..................**F**..........**C**<br/>
+.............**F**..........**C**<br/>
 So I'll **go**, I'll **go**<br/>
-.................**G**....**Am**<br/>
+............**G**..........**Am**<br/>
 I will **go**, go, **go**<br/>
 
 So I'll go, I'll go<br/>
