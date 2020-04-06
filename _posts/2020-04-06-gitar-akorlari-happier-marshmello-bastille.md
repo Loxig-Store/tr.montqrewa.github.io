@@ -9,18 +9,18 @@ comments: true
 **5. Perdeye Kapo (Kelepçe)**
 
 <u>[Intro]</u><br/>
-**Am**     .......       Geçiş **C/B*** sonra **C**<br/>
+**Am**     ...........       Geçiş **C/B*** sonra **C**<br/>
 **L**ately, I've been, **I've** been **t**hinking<br/>
-...............................................**F**...............................................**F**<br/>
+...................................**F**...................................**F**<br/>
 I want you to be **h**appier, I want you to be **h**appier<br/>
 
 <u>[Verse 1]</u><br/>
 .....................**G**...................**Am**<br/>
-When the morning comes<br/>
+When the **m**orning **c**omes<br/>
 ......................................**C/B*** **C**<br/>
-When we see what we've become<br/>
-...............................................**F**...............................................<br/>
-In the cold light of day we're a flame in the wind<br/>
+When we see what **we've** **b**ecome<br/>
+......................................................**F**<br/>
+In the cold light of day we're a **f**lame in the wind<br/>
 ...............................................**F**<br/>
 Not the fire that we've be**g**un<br/>
 
