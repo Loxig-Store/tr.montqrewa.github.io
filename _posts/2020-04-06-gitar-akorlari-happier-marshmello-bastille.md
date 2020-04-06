@@ -37,20 +37,23 @@ I **t**hink that we both know the way that this story **e**nds<br/>
 I want to change my **m**ind<br/>
 ..................................................**F**<br/>
 'Cause this just don't feel **r**ight to me<br/>
-**G Am**..............................................**C/B*** **C**<br/>
+**G Am**.......................................**C/B*** **C**<br/>
 **I w**anna raise your spir**its**<br/>
 ....................................**F**<br/>
 I want to see you **s**mile but<br/>
+.......................................**F**<br/>
+Know that means I'll **h**ave to leave<br/>
 
-Know that means I'll have to leave<br/>
 
 
+.......................................**F**<br/>
+Know that means I'll **h**ave to leave<br/>
 
-Know that means I'll have to leave<br/>
+**Am**     ...........       Geçiş **C/B*** sonra **C**<br/>
+**L**ately, I've been, **I've** been **t**hinking<br/>
 
-Lately, I've been, I've been thinking<br/>
-
-I want you to be happier, I want you to be happier<br/>
+.................................**F**.............................................**F**<br/>
+I want you to be **h**appier, I want you to be **h**appier<br/>
 
 <u>[Verse 2]</u><br/>
 When the evening falls<br/>
@@ -70,23 +73,30 @@ Far away from the wreck we made<br/>
 <u>[Chorus]</u><br/>
 Then only for a minute<br/>
 
-I want to change my mind<br/>
+.........................................**F**<br/>
+I want to change my **m**ind<br/>
 
-'Cause this just don't feel right to me<br/>
+..................................................**F**<br/>
+'Cause this just don't feel **r**ight to me<br/>
 
-I wanna raise your spirits<br/>
+**G Am**.......................................**C/B*** **C**<br/>
+**I w**anna raise your spir**its**<br/>
+....................................**F**<br/>
+I want to see you **s**mile but<br/>
 
-I want to see you smile but<br/>
-
-Know that means I'll have to leave<br/>
-
+.......................................**F**<br/>
+Know that means I'll **h**ave to leave<br/>
 
 
-Know that means I'll have to leave<br/>
 
-Lately, I've been, I've been thinking<br/>
+.......................................**F**<br/>
+Know that means I'll **h**ave to leave<br/>
 
-I want you to be happier, I want you to be happier<br/>
+**Am**     ...........       Geçiş **C/B*** sonra **C**<br/>
+**L**ately, I've been, **I've** been **t**hinking<br/>
+
+.................................**F**.............................................**F**<br/>
+I want you to be **h**appier, I want you to be **h**appier<br/>
 
 <u>[Bridge]</u><br/>
 So I'll go, I'll go<br/>
@@ -98,9 +108,11 @@ So I'll go, I'll go<br/>
 I will go, go, go<br/>
 
 <u>[Pre-Chorus]</u><br/>
-Lately, I've been, I've been thinking<br/>
+**Am**     ...........       Geçiş **C/B*** sonra **C**<br/>
+**L**ately, I've been, **I've** been **t**hinking<br/>
 
-I want you to be happier, I want you to be happier<br/>
+.................................**F**.............................................**F**<br/>
+I want you to be **h**appier, I want you to be **h**appier<br/>
 
 Even though I might not like this<br/>
 
@@ -109,23 +121,30 @@ I think that you'll be happier, I want you to be happier<br/>
 <u>[Chorus]</u><br/>
 Then only for a minute (only for a minute)<br/>
 
-I want to change my mind<br/>
+.........................................**F**<br/>
+I want to change my **m**ind<br/>
 
-'Cause this just don't feel right to me<br/>
+..................................................**F**<br/>
+'Cause this just don't feel **r**ight to me<br/>
 
-I wanna raise your spirits<br/>
+**G Am**.......................................**C/B*** **C**<br/>
+**I w**anna raise your spir**its**<br/>
+....................................**F**<br/>
+I want to see you **s**mile but<br/>
 
-I want to see you smile but<br/>
-
-Know that means I'll have to leave<br/>
-
+.......................................**F**<br/>
+Know that means I'll **h**ave to leave<br/>
 
 
-Know that means I'll have to leave<br/>
 
-Lately, I've been, I've been thinking<br/>
+.......................................**F**<br/>
+Know that means I'll **h**ave to leave<br/>
 
-I want you to be happier, I want you to be happier<br/>
+**Am**     ...........       Geçiş **C/B*** sonra **C**<br/>
+**L**ately, I've been, **I've** been **t**hinking<br/>
+
+.................................**F**.............................................**F**<br/>
+I want you to be **h**appier, I want you to be **h**appier<br/>
 
 <u>[Outro]</u><br/>
 So I'll go, I'll go<br/>
