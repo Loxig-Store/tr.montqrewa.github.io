@@ -8,10 +8,10 @@ comments: true
 ---
 **5. Perdeye Kapo (Kelepçe)**
 
-```Am``` ```Geçiş C/B*``` ```C```
-Lately, I've been, I've been thinking
-```F```                   ```F```          ```G```
-I want you to be happier, I want you to be happier
+```Am``` ```Geçiş C/B*``` ```C```<br/>
+Lately, I've been, I've been thinking<br/>
+```F```                   ```F```          ```G```<br/>
+I want you to be happier, I want you to be happier<br/>
 
 When the morning comes
 When we see what we've become
