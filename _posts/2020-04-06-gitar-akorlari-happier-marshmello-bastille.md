@@ -2,7 +2,7 @@
 layout: post
 title: "Gitar Akorları | Happier - Marshmello ft. Bastille"
 description: "Marshmello ft. Bastille - Happier"
-date: 2020-04-05
+date: 2020-04-06
 tags: gitar akor gitar akorları happier marshmello bastille
 comments: true
 ---
