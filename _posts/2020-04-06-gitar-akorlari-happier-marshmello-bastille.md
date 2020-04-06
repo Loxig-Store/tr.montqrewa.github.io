@@ -9,7 +9,7 @@ comments: true
 **5. Perdeye Kapo (Kelepçe)**
 
 <u>[Intro]</u><br/>
-**Am** **Geçiş C/B*** **C**<br/>
+**Am**       **Geçiş C/B***       **C**<br/>
 Lately, I've been, I've been thinking<br/>
 **F**                   **F**          **G**<br/>
 I want you to be happier, I want you to be happier<br/>
