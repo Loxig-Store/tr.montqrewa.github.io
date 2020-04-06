@@ -37,16 +37,16 @@ I **t**hink that we both know the way that this story **e**nds<br/>
 I want to change my **m**ind<br/>
 ..................................................**F**<br/>
 'Cause this just don't feel **r**ight to me<br/>
-**G Am**.......................................**C/B** **C**<br/>
+**G Am**..................................**C/B** **C**<br/>
 **I w**anna raise your spir**its**<br/>
 ....................................**F**<br/>
 I want to see you **s**mile but<br/>
-.......................................**F**<br/>
+.........................................**F**<br/>
 Know that means I'll **h**ave to leave<br/>
 
 
 
-.......................................**F**<br/>
+.........................................**F**<br/>
 Know that means I'll **h**ave to leave<br/>
 
 **Am**     ...........       Geçiş **C/B** sonra **C**<br/>
@@ -64,11 +64,11 @@ And I'm left there **w**ith my **t**houghts<br/>
 And the image of you being **w**ith someone else<br/>
 .................................................**F**<br/>
 Well, that's eating me up **i**nside<br/>
-..............**G**.......**Am**....................................**C/B** **C**<br/>
+..............**G**...........**Am**......................................**C/B** **C**<br/>
 But we **r**un our **c**ourse, we pretend that **we're** **o**kay<br/>
-...........................................**F**<br/>
+..................................................**F**<br/>
 Now if we jump together at **l**east we can swim<br/>
-.......................................**F**<br/>
+................................................**F**<br/>
 Far away from the wreck **w**e made<br/>
 
 <u>[Chorus]</u><br/>
@@ -81,7 +81,7 @@ I want to change my **m**ind<br/>
 ..................................................**F**<br/>
 'Cause this just don't feel **r**ight to me<br/>
 
-**G Am**.......................................**C/B*** **C**<br/>
+**G Am**..................................**C/B** **C**<br/>
 **I w**anna raise your spir**its**<br/>
 ....................................**F**<br/>
 I want to see you **s**mile but<br/>
@@ -131,7 +131,7 @@ I want to change my **m**ind<br/>
 ..................................................**F**<br/>
 'Cause this just don't feel **r**ight to me<br/>
 
-**G Am**.......................................**C/B** **C**<br/>
+**G Am**..................................**C/B** **C**<br/>
 **I w**anna raise your spir**its**<br/>
 ....................................**F**<br/>
 I want to see you **s**mile but<br/>
