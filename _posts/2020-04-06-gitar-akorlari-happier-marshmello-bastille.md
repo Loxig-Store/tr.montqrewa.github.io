@@ -11,7 +11,7 @@ comments: true
 <u>[Intro]</u><br/>
 **Am**     .......       Geçiş **C/B*** sonra **C**<br/>
 Lately, I've been, I've been thinking<br/>
-**F**............................................**F**...................................................**G**<br/>
+**F**............................................**F**.......&nbsp;........................................<p>&nbsp;</p>....**G**<br/>
 I want you to be happier, I want you to be happier<br/>
 
 <u>[Verse 1]</u><br/>
