@@ -56,9 +56,10 @@ Know that means I'll **h**ave to leave<br/>
 I want you to be **h**appier, I want you to be **h**appier<br/>
 
 <u>[Verse 2]</u><br/>
-When the evening falls<br/>
-
-And I'm left there with my thoughts<br/>
+.........................................**Am**<br/>
+When the evening **f**alls<br/>
+...................................**C/B***........**C**
+And I'm left there **w**ith my **t**houghts<br/>
 
 And the image of you being with someone else<br/>
 
@@ -119,7 +120,8 @@ Even though I might not like this<br/>
 I think that you'll be happier, I want you to be happier<br/>
 
 <u>[Chorus]</u><br/>
-Then only for a minute (only for a minute)<br/>
+**G**.........**Am**...................**C/B*** **C**<br/>
+**T**hen **o**nly for a min**ute**<br/>
 
 .........................................**F**<br/>
 I want to change my **m**ind<br/>
