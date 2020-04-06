@@ -23,19 +23,20 @@ When we see what **we've** **b**ecome<br/>
 In the cold light of day we're a **f**lame in the wind<br/>
 .................................................**F**<br/>
 Not the fire that we've be**g**un<br/>
-.....................**G**...**Am**............**C/B**...**C**
+.....................**G**...**Am**............**C/B***...**C**<br/>
 Every **a**rgu**m**ent, every word we **can't** **t**ake back<br/>
 
 'Cause with the all that has happened<br/>
-
-I think that we both know the way that this story ends<br/>
+**F**.................................................................**F**<br/>
+I **t**hink that we both know the way that this story **e**nds<br/>
 
 <u>[Chorus]</u><br/>
-Then only for a minute<br/>
-
-I want to change my mind<br/>
-
-'Cause this just don't feel right to me<br/>
+**G**..........**Am**.....**C/B*** **C**<br/>
+**T**hen **o**nly for a min**ute**<br/>
+.......................**F**<br/>
+I want to change my **m**ind<br/>
+................................**F**<br/>
+'Cause this just don't feel **r**ight to me<br/>
 
 I wanna raise your spirits<br/>
 
