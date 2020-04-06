@@ -58,21 +58,22 @@ I want you to be **h**appier, I want you to be **h**appier<br/>
 <u>[Verse 2]</u><br/>
 .....................................**Am**<br/>
 When the evening **f**alls<br/>
-...................................**C/B***........**C**<br/>
+...................................**C/B***.......**C**<br/>
 And I'm left there **w**ith my **t**houghts<br/>
-..............................................................**F**<br/>
+.........................................................**F**<br/>
 And the image of you being **w**ith someone else<br/>
-...........................................................**F**<br/>
+.................................................**F**<br/>
 Well, that's eating me up **i**nside<br/>
-
-But we run our course, we pretend that we're okay<br/>
-
-Now if we jump together at least we can swim<br/>
-
-Far away from the wreck we made<br/>
+..............**G**.......**Am**....................................**C/B*** **C**<br/>
+But we **r**un our **c**ourse, we pretend that **we're** **o**kay<br/>
+...........................................**F**<br/>
+Now if we jump together at **l**east we can swim<br/>
+.......................................**F**<br/>
+Far away from the wreck **w**e made<br/>
 
 <u>[Chorus]</u><br/>
-Then only for a minute<br/>
+**G**.........**Am**...................**C/B*** **C**<br/>
+**T**hen **o**nly for a min**ute**<br/>
 
 .........................................**F**<br/>
 I want to change my **m**ind<br/>
@@ -100,9 +101,10 @@ Know that means I'll **h**ave to leave<br/>
 I want you to be **h**appier, I want you to be **h**appier<br/>
 
 <u>[Bridge]</u><br/>
-So I'll go, I'll go<br/>
-
-I will go, go, go<br/>
+..................**F**..........**C**<br/>
+So I'll **go**, I'll **go**<br/>
+.................**G**....**Am**<br/>
+I will **go**, go, **go**<br/>
 
 So I'll go, I'll go<br/>
 
